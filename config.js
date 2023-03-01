@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/l4c1f2r'
-global.syt = 'https://youtu.be/ALQiRR1nzLI'
+global.sig = 'https://instagram.com/rikiimam16'
+global.syt = 'https://youtu.be/rikiimamuddin'
 global.sgh = 'https://github.com/Turu-bangun'
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.swa = 'wa.me/6282214729677'
+global.sgc = 'https://https://chat.whatsapp.com/FR5HW2bZc830jDhnwZtrXh'
+global.swa = 'wa.me/6289512831977'
 global.swb = 'https://discord.gg/4HvezMAw'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
+global.pdana = '089512831977'
+global.povo = '089512831977'
+global.pgopay = '089512831977'
+global.ppulsa = '089512831977'
+global.ppulsa2 = '089512831977'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
-global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nomorbot = '6283845051018'
+global.nomorown = '6289512831977'
+global.namebot = 'RiksBotz'
+global.nameown = 'RikiImamss'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677', 'PutraModz', 'true']
+  ['89512831977', 'RikiImamss', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,16 +102,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'PutraKeche'
-global.wm3 = 'NexBotz | By PutraModz'
+global.wm = 'By RiksBotz' //Main Watermark
+global.wm2 = 'Rikss'
+global.wm3 = 'Riskbotzz | By RikiImamsd'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'PutraModz' 
-global.packname = 'PutraKeche'
+global.titlebot = `RiksBotz | ʙʏ ${global.nameown}`
+global.author = 'RikiImamss' 
+global.packname = 'RiksKechee'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Februari 02 2023'
+global.ultahowner = 'Maret 16 2023'
 
 
 /*============== LOGO ==============*/
@@ -126,11 +126,11 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh PutraModz Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Putra'
-global.umurowner = '18'
-global.asalowner = 'Jawa Barat, Kuningan'
-global.nomorowner = 'wa.me/6282214729677'
-global.pacarowner = 'Amelia Putri septiany'
+global.nameowner = 'RikiImamss'
+global.umurowner = '15'
+global.asalowner = 'Jawa Tengah, Pekalongan'
+global.nomorowner = 'wa.me/6289512831977'
+global.pacarowner = 'shtttt'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
